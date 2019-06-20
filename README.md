@@ -15,4 +15,4 @@ All reports and presentation about project can be found in **[Reports Folder](ht
 
 Five different Jupyter Notebook files which covers the codes of data analysis can be found in **[Notebooks Folder](https://github.com/g-oran/Springboard-Capstone-Project-2_NLP-Sentiment-Analysis/tree/master/Notebooks)**
 
-Reduced and Cleaned Dataset can be found in **Data Folder.**
+Reduced and Cleaned Dataset can be found in **[Data Folder](https://github.com/g-oran/Springboard-Capstone-Project-2_NLP-Sentiment-Analysis/tree/master/Data)**
